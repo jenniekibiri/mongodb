@@ -5,3 +5,7 @@ https://documenter.getpostman.com/view/8803936/Szt8dUpP
 GET | POST | DELETE | PUT 
 ------------ | -------------
 /users| /addUsers|/delUser/:userId /updateUser/:userId
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
